@@ -1,6 +1,7 @@
 :root {
-  --primary-color: #805231;
-  --primary-color-rgb: 128, 82, 49;
-  --secondary-color: #805231;
-  --secondary-color-rgb: 128, 82, 49;
+  --primary-color: #434834;
+  --primary-color-rgb: 67, 72, 52;
+  --secondary-color: #E9E2D2;
+  --secondary-color-rgb: 233, 226, 210;
+  --primary-color-2-rgb: 67, 72, 52;
 }
