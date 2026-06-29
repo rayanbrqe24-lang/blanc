@@ -95,12 +95,12 @@ Table of content:
   --logo-footer-width: 150px;
   /* misc */
   --border-default: solid 1px rgba(30, 30, 30, 1);
-  --bg-default: #F0EBE5;
-  --bg-light: #f7f5f3;
-  --bg-dark-1: #34241C;
-  --bg-dark-2: #433027;
-  --bg-dark-3: #524036;  
-  --bg-dark-1-rgb: 52, 36, 28;
+  --bg-default: #E9E2D2;
+  --bg-light: #f0ece3;
+  --bg-dark-1: #434834;
+  --bg-dark-2: #3a3f2d;
+  --bg-dark-3: #767A60;  
+  --bg-dark-1-rgb: 67, 72, 52;
   --bg-grey: #eeeeee;
   --bg-gradient-1: 0deg, rgba(var(--primary-color-rgb), .1) 0%, rgba(var(--secondary-color-rgb), .2) 100%;
   --bg-color-even: #E8E8E8;
