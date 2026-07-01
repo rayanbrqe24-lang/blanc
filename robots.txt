@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rayanbrqe24-lang.github.io/blanc/sitemap.xml
